@@ -4,12 +4,10 @@ body{
     margin: 5px;
     padding: 2px;
     }
-    header {
-        text-align: center;
-        background-color: rgb(200, 243, 184);
-    }
+    header,
     footer {
-text-align: right;
+text-align: justify;
+text-indent: 7px;
 background-color: rgb(200, 243, 184);
     }
     h2, h3, h4 {
